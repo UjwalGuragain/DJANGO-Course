@@ -74,5 +74,5 @@ dict1["Gender"] = "Male"  #Adding data in dictionary
 
 dict1.clear   #Clear outs values but the keys remains intact
 
-dict2 = dict1.copy   #Copies the dictionary
+dict2 = dict1.copy   #Copies the dictionary just like list.copy()
 print(dict1)
